@@ -3,7 +3,7 @@ refresh="3600"
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="NASIONAL",SCTV
 https://raw.githubusercontent.com/rudiplg/XBR/main/sctv.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="NASIONAL"INDOSIAR
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="NASIONAL",INDOSIAR
 https://raw.githubusercontent.com/rudiplg/XBR/main/indosiar.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="NASIONAL",MNCtv
