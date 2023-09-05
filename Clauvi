@@ -1,5 +1,6 @@
 <<<<<<<<<<<<<<<<<<<<<<<NASIONAL>>>>>>>>>>>>>>>>>>>>>>>>
 refresh="3600"
+#EXTM3U
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="NASIONAL",SCTV
 https://raw.githubusercontent.com/rudiplg/XBR/main/sctv.m3u8
 
